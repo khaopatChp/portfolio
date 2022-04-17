@@ -15,13 +15,14 @@ function Navbar() {
             <div className="menu-icon" onClick={handleClick}>
                 <i className={state ? 'fas fa-times' : 'fas fa-bars'}></i>
             </div>
-            <ul className={state ? 'nav-menu active' : 'nav-menu'}>
+            <ul className={state ? 'nav-menu active' : 'nav-menu'} onClick={handleClick}>
                 {MenuItems.map((item, index) => {
                     return(
                         <li key={index}>
-                            <a className={item.cName} href={item.link}>
-                                {item.title} 
-                            </a>
+                           
+                                <a className={item.cName} href={item.link}>
+                                    {item.title} 
+                                </a>
                         </li>
                     )
                 })}

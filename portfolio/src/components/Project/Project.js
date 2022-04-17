@@ -15,8 +15,8 @@ function Project () {
                         </div>
                         <h3>{item.title}</h3>
                         <div className="p-item-cta">
-                            <button href={item.github} className="btn" target='_blank'>Github</button>
-                            <button href={item.liveDemo} className="btn btn-primary" target='_blank'>Live Demo</button>
+                            <a href={item.github}><button  className="btn" target='_blank'>Github</button></a>
+                            <a href={item.liveDemo}><button  className="btn btn-primary" target='_blank'>Live Demo</button></a>
                         </div>
                     </article>
                 )
