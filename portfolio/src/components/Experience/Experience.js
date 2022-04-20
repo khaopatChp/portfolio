@@ -88,31 +88,19 @@ function Experience (){
                             <article className="e-details">
                                 <BsFillPatchCheckFill className="e-icon"/>
                                 <div>
-                                    <h4>Fima</h4>
+                                    <h4>Figma</h4>
                                     <small className="text-light">Experienced</small>
                                 </div>
                             </article>
                             <article className="e-details">
                                 <BsFillPatchCheckFill className="e-icon"/>
                                 <div>
-                                    <h4>Arduino IDE</h4>
+                                    <h4>vercel</h4>
                                     <small className="text-light">Experienced</small>
                                 </div>
                             </article>
-                            <article className="e-details">
-                                <BsFillPatchCheckFill className="e-icon"/>
-                                <div>
-                                    <h4>MATLAB</h4>
-                                    <small className="text-light">Experienced</small>
-                                </div>
-                            </article>
-                            <article className="e-details">
-                                <BsFillPatchCheckFill className="e-icon"/>
-                                <div>
-                                    <h4>Canva</h4>
-                                    <small className="text-light">Experienced</small>
-                                </div>
-                            </article>
+                            
+                            
                         </div>
                     </div>
                

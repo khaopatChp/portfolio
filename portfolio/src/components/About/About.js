@@ -11,7 +11,7 @@ function About() {
                 </div>
                 <div className="a-subtitle">
                     <div>
-                        <p>I'm a recent control system engineering living in Bangkok, who want to be Software Developer. Therefore, I decided to join an intense boot camp to be there.</p>
+                        <p>I'm a junior software developer in training with the goal of utilizing my knowledge and abilities in programming languages to solve every problem. I used to work as a control systems officer, helping create automation systems. Through that work, I have developed skills in planning, persistence, and logical thinking. My strengths from working with many people are also in communication skills and quick adaptation to new challenges. To be successful in future tasks, I enjoy working with a team, have always been a good team member, and I love working with others to deliver great projects.</p>
                     </div>
                 </div>
                 <div className="line">dd</div>

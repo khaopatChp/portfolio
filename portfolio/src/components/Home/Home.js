@@ -19,9 +19,7 @@ function Home() {
                             </a>
                         </div>
                     </div>   
-                    <div className="i-desc">
-                    A recent control system engineering graduate with strong communication skills who looks for an opportunity to work as a Junior Software Developer and utilize knowledge in web programming languages and tools to come up with solutions that can solve everyday problems.
-                </div>
+                    
                 </div>
             </div>
             <div className="i-right">
