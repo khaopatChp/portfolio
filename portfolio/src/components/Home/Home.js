@@ -13,7 +13,7 @@ function Home() {
                             <a  href="https://drive.google.com/file/d/1LPlURUmVX0RTF-AS3RciCPaAQ1vi4-rn/view?usp=sharing" download >
                                 <button className="i-title-bt" >
                                     <div className="i-title-bt-icon">
-                                        Get a resume
+                                        Check out my resume
                                     </div>
                                 </button>
                             </a>
