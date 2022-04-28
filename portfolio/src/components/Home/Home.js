@@ -10,7 +10,7 @@ function Home() {
                     <h1 className="i-name">Chonticha Pongjit</h1>
                     <div className="i-title">
                         <div className="i-title-wrapper">
-                            <a  href="https://drive.google.com/file/d/1LPlURUmVX0RTF-AS3RciCPaAQ1vi4-rn/view?usp=sharing" download >
+                            <a  href="https://drive.google.com/file/d/1-8aNvEtbqsYfPU0zoahY0Aiux4ot_re2/view?usp=sharing" download >
                                 <button className="i-title-bt" >
                                     <div className="i-title-bt-icon">
                                         Check out my resume
